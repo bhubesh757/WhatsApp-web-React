@@ -1,0 +1,26 @@
+
+
+.login__container {
+    background-image: url(https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif);
+    background-size: contain;
+    background-color: white;
+    height: 80vh;
+    width: 80vw;
+    display: grid;
+    place-items: center;
+    border-radius: 5 0px;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(243, 236, 236, 0.876);
+}
+
+.login__container > img {
+    width: 100px;
+    margin-bottom: 200px;
+}
+
+.login__container > button {
+    margin-top: 50px;
+    text-transform: inherit !important;
+    background-color: #0a8d48 !important;
+    color: white;
+}
