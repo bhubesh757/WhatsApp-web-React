@@ -119,3 +119,28 @@
     padding: 10px;
     color: gray;
 }
+
+
+.post_image  {
+    width : 350px;
+    height: 300px;
+    /* object-fit: contain; */
+    border-radius: 10px;
+}
+
+.chat__image {
+    /* color: white; */
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    /* background-color: white; */
+    /* border-radius: 999px; */
+    /* width: fit-content; */
+    margin-bottom: 30px;
+}
+
+.chat__receiver_image {
+    margin-right: auto;
+    /* background-color: #dcf8c6; */
+}
+
